@@ -1,0 +1,11 @@
+it is an another file, for practice purpose .
+first cloning tne the repository and inserting the file.
+commit then push it the the origin main 
+cmd-
+1. git init -> to create an empty repository in github
+->git add filename to add new file in cloned repository
+after creating the empty repository use -> git status 
+-> to know the status of file in github repository such as wheather change need to be commited or what are the file are not updated in the repository 
+2. git commit -m "commit message" -> to save the the change in file or adding the new file
+3.git push -> command to push the file that are added new to the repository.without push command the file that are commited will not be visible or pushed to repository 
+it is mandatory to make push command(git push origin main)
